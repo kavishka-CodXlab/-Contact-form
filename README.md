@@ -10,12 +10,12 @@ A responsive and functional contact form built with HTML, CSS, and JavaScript. S
 
 ## Tech Stack 🛠️
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend Integration**: [Formspree](https://formspree.io/) (or your chosen service)
+- **Backend Integration**: Emailjs
 
 ## Installation & Setup 🚀
 1. **Clone the repository**:
    ```bash
- git clone https://github.com/kavishka-CodXlab/Contact-form.git
+    git clone https://github.com/kavishka-CodXlab/Contact-form.git
 
 2. Open in a browser:
 
